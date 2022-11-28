@@ -1,0 +1,64 @@
+[
+  {
+    "total": 1,
+    "weeks": [
+      {
+        "w": 1668902400,
+        "a": 2,
+        "d": 2,
+        "c": 1
+      }
+    ],
+    "author": {
+      "login": "account2kk",
+      "id": 118890791,
+      "node_id": "U_kgDOBxYhJw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118890791?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/account2kk",
+      "html_url": "https://github.com/account2kk",
+      "followers_url": "https://api.github.com/users/account2kk/followers",
+      "following_url": "https://api.github.com/users/account2kk/following{/other_user}",
+      "gists_url": "https://api.github.com/users/account2kk/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/account2kk/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/account2kk/subscriptions",
+      "organizations_url": "https://api.github.com/users/account2kk/orgs",
+      "repos_url": "https://api.github.com/users/account2kk/repos",
+      "events_url": "https://api.github.com/users/account2kk/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/account2kk/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 2,
+    "weeks": [
+      {
+        "w": 1668902400,
+        "a": 23,
+        "d": 1,
+        "c": 2
+      }
+    ],
+    "author": {
+      "login": "KumarVariable",
+      "id": 79558369,
+      "node_id": "MDQ6VXNlcjc5NTU4MzY5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79558369?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KumarVariable",
+      "html_url": "https://github.com/KumarVariable",
+      "followers_url": "https://api.github.com/users/KumarVariable/followers",
+      "following_url": "https://api.github.com/users/KumarVariable/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KumarVariable/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KumarVariable/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KumarVariable/subscriptions",
+      "organizations_url": "https://api.github.com/users/KumarVariable/orgs",
+      "repos_url": "https://api.github.com/users/KumarVariable/repos",
+      "events_url": "https://api.github.com/users/KumarVariable/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KumarVariable/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]
